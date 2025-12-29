@@ -1,0 +1,6 @@
+﻿*.avi
+*.mp4
+__pycache__/
+*.pyc
+venv/
+LMS_Submission/

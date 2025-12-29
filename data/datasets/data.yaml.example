@@ -1,0 +1,11 @@
+# Example Dataset YAML for YOLO Training
+# Place this in data/datasets/data.yaml after annotation
+
+path: ../datasets/player_detection  # Dataset root directory
+train: images/train  # Train images (relative to 'path')
+val: images/val      # Validation images (relative to 'path')
+test: images/test    # Test images (optional)
+
+# Classes
+names:
+  0: player
