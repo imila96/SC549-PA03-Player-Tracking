@@ -1,6 +1,8 @@
 ﻿*.avi
 *.mp4
+*.pt
+outputs/detections/labels/
+outputs/poses/labels/
 __pycache__/
 *.pyc
 venv/
-LMS_Submission/
